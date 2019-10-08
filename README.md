@@ -3,7 +3,19 @@
 
 > 본 데이터는 Myo Arm band로부터 취득된 데이터를 55종에 해당하는 행동분류에 적용함.
 
+### Environment
+#### Device
+![Myo1](image/myarmband.png) 
+![Myo1](image/myarmband2.png)
+> 암 밴드 외형(좌) \ 밴드 착용 사진(우)
 
+#### Raw Data
+![rawdata](image/myarmband_rawdata.png)
+
+### Action Type List 55
+![actionlist](image/ActionList55.png)
+* 실제 고령자 행동을 관찰하여 정의한 55종 행동 중 팔을 사용하지 않는 7종 행동을 제외하여 48종 행동 인식에 활용 
+* 제외 행동 : A20(신발 신고 벗기), A30(물건 찾으려고 두리번거리기), A42(목 돌리기 운동하기), A44(고개 숙여 인사하기), A45(담소 나누기), A48(서로 싸우기), A53(쓰러지기)
 
 ### Data set directory layout
     POdd
