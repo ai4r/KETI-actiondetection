@@ -3,6 +3,15 @@
 
 > 본 데이터는 Myo Arm band로부터 취득된 데이터를 55종에 해당하는 행동분류에 적용함.
 
+### A typical top-level directory layout
+
+    .
+    ├── data                    # Action IMU Dataset
+    ├── doc                     # Documentation files
+    ├── image                   # Image files
+    ├── LICENSE
+    └── README.md
+    
 ### Environment
 #### Device
 ![Myo1](image/myarmband.png) 
