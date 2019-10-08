@@ -1,5 +1,5 @@
-# KETI ACTION IMU DATASET
-=========================
+# KETI ACTION IMU/EMG DATASET
+================================
 
 > 본 데이터는 Myo Arm band로부터 취득된 데이터를 55종에 해당하는 행동분류에 적용함.
 
