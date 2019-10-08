@@ -6,7 +6,6 @@
 ### A typical top-level directory layout
 
     .
-    ├── data                    # Action IMU Dataset
     ├── doc                     # Documentation files
     ├── image                   # Image files
     ├── LICENSE
@@ -40,6 +39,9 @@
     |    |    └───────────────────  Sbject : 피실험자 번호 
     |    └────────────────────────  Sensor data : accel(3축), gyro(3축), emg(8 채널)
     └─────────────────────────────  Action : 행동 01~55 라벨링
+
+### Action Trainning Dataset Link
+https://drive.google.com/file/d/1YhZH-zgQdmXOvFgOP6h79NfzHfG6pxYV/view?usp=sharing
 
 ### Link QR Image
 ![KETIQRImage](image/keti_github_qrcode_f.PNG)
