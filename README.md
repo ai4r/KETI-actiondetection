@@ -1,4 +1,4 @@
 # KETI ACTION IMU DATASET
 
 ## Link QR Image
-![QRImage](QRImg.PNG)
+![KETIQRImage](image/keti_github_qrcode.PNG)
