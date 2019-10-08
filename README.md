@@ -1,7 +1,7 @@
-# KETI ACTION IMU/EMG DATASET
-============================================
+# KETI ACTION DATASET
+======================================
 
-> 본 데이터는 Myo Arm band로부터 취득된 데이터를 55종에 해당하는 행동분류에 적용함.
+> 본 데이터는 Myo Arm band로부터 취득된 IMU/EMG데이터를 55종에 해당하는 행동인식에 적용함.
 
 ### A typical top-level directory layout
 
