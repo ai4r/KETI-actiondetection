@@ -42,6 +42,7 @@
 
 ### Action Trainning Dataset Link
 https://drive.google.com/file/d/1YhZH-zgQdmXOvFgOP6h79NfzHfG6pxYV/view?usp=sharing
+comming soon
 
 ### Link QR Image
 ![KETIQRImage](image/keti_github_qrcode_f.PNG)
