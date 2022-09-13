@@ -41,8 +41,9 @@
     └─────────────────────────────  Action : 행동 01~55 라벨링
 
 ### Action Trainning Dataset Link
-https://drive.google.com/file/d/1YhZH-zgQdmXOvFgOP6h79NfzHfG6pxYV/view?usp=sharing
-comming soon
+https://drive.google.com/drive/folders/1VWrVRpRQVgi8zJ-KiLAnfZGGekVRliSu
 
-### Link QR Image
-![KETIQRImage](image/keti_github_qrcode_f.PNG)
+![image](https://user-images.githubusercontent.com/56282736/190022026-4d24f580-383a-4207-b0b1-b18e9c30aade.png)
+
+
+
