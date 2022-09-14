@@ -27,7 +27,12 @@ note) 실제 고령자 행동을 관찰하여 정의한 55종 행동 중 팔을 
 ### Action Trainning Dataset Link
 https://drive.google.com/drive/folders/1VWrVRpRQVgi8zJ-KiLAnfZGGekVRliSu
 
-![image](image/data_stat.png)
+![image](image/data_stat.png){: width=500}
 
+![A024_P064_G001_TIC](https://user-images.githubusercontent.com/56282736/190088338-69df6d23-04ba-42ae-bb23-6af6e6662990.gif){: width=500}
+
+![A024_P064_G001_IMU](https://user-images.githubusercontent.com/56282736/190088455-e3ed4325-b328-4021-a8c3-8f3d627adb8e.gif)
+
+![A024_P064_G001_EMG](https://user-images.githubusercontent.com/56282736/190088480-d25f3e05-4c2a-4649-aa9a-47fa6cbacc4d.gif)
 
 
