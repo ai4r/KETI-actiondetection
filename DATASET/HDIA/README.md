@@ -8,10 +8,10 @@ Human Daily Indoor Actions (HDIA) 데이터셋은 실내에서 이루어지는 �
 <img src="image/daejeon.png"  width="500">     <img src="image/room.png"  width="480">
 
 #### Raw Data
-![rawdata](image/data_example_A005G068G001.png)
+<img src="image/A024_P064_G001_TIC.gif">
 
 ## Action class List 48
-![actionlist]<img src="image/class_num.png"  width="500">
+<img src="image/class_num.png"  width="200">
 
 note) 실제 고령자 행동을 관찰하여 정의한 55종 행동 중 팔을 사용하지 않는 7종 행동을 제외하여 48종 행동 인식에 활용 
 *
@@ -27,12 +27,6 @@ note) 실제 고령자 행동을 관찰하여 정의한 55종 행동 중 팔을 
 ### Action Trainning Dataset Link
 https://drive.google.com/drive/folders/1VWrVRpRQVgi8zJ-KiLAnfZGGekVRliSu
 
-![image](image/data_stat.png){: width=500}
 
-![A024_P064_G001_TIC](https://user-images.githubusercontent.com/56282736/190088338-69df6d23-04ba-42ae-bb23-6af6e6662990.gif){: width=500}
-
-![A024_P064_G001_IMU](https://user-images.githubusercontent.com/56282736/190088455-e3ed4325-b328-4021-a8c3-8f3d627adb8e.gif)
-
-![A024_P064_G001_EMG](https://user-images.githubusercontent.com/56282736/190088480-d25f3e05-4c2a-4649-aa9a-47fa6cbacc4d.gif)
-
+<img src="image/data_stat.png"  width="500">
 
