@@ -11,7 +11,7 @@ Human Daily Indoor Actions (HDIA) 데이터셋은 실내에서 이루어지는 �
 > __IR 카메라, MYO 암밴드__ >
 HDIA 데이터셋은 실험자들의 개인 정보를 보호를 최우선으로 생각하기 때문에 열화상 카메라(IR camera)와 암밴드(armband) 센서를 사용하였습니다. 열화상 카메라는 직접적인 얼굴 노출이 있는 RGB 카메라 대신 시각 데이터를 모으는 데 사용되었습니다. FLIR Boson 320A50  기기를 페퍼 로봇의 키에 해당하는 120cm 높이에서 촬영하였습니다. 암밴드는 9축 관성 센서와 8개의 전극을 내장한 Thalmic lab의 MYO 기기를 사용하였습니다. 참가자들은 오른쪽 전완근에 암밴드를 착용하였습니다.
 
-<img src="image/A024_P064_G001_all_fin.gif">
+<img src="image/A024_P064_G001_all_fin.gif" width="1000">
 
 
 ## 48종 행동 리스트
@@ -29,7 +29,7 @@ note) 실제 고령자 행동을 관찰하여 정의한 55종 행동 중 팔을 
     |    └─────────────  Subject : 피실험자 id
     └──────────────────  Action : 행동 id
 
-
+## 요약
 |총 데이터 개수|4806|
 |:---|:---|
 |행동 개수|48|
@@ -37,6 +37,7 @@ note) 실제 고령자 행동을 관찰하여 정의한 55종 행동 중 팔을 
 |촬영 기기|FLIR Boson 320A50, MYI|
 |데이터 종류|열화상 이미지, IMU, EMG|
 
+## 통계
 <img src="image/data_stat.png">
 
 ### Action Trainning Dataset Link
