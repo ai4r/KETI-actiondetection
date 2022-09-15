@@ -18,6 +18,7 @@ HDIA 데이터셋은 실험자들의 개인 정보를 보호를 최우선으로 
 <img src="image/class_num.png">
 
 note) 실제 고령자 행동을 관찰하여 정의한 55종 행동 중 팔을 사용하지 않는 7종 행동을 제외하여 48종 행동 인식에 활용 
+
 유관 기관 데이터셋 바로가기 https://nanum.etri.re.kr/share/dhkim008/robot_environment1?lang=ko_KR
 
 ### Data file name layout
@@ -28,9 +29,12 @@ note) 실제 고령자 행동을 관찰하여 정의한 55종 행동 중 팔을 
     |    └─────────────  Subject : 피실험자 id
     └──────────────────  Action : 행동 id
 
-### Action Trainning Dataset Link
-https://drive.google.com/drive/folders/1VWrVRpRQVgi8zJ-KiLAnfZGGekVRliSu
-
+|왼쪽 정렬|가운데 정렬|오른쪽 정렬|
+|:---|:---:|---:|
+|내용1|내용2|내용3|
+|내용1|내용2|내용3|
 
 <img src="image/data_stat.png">
 
+### Action Trainning Dataset Link
+https://drive.google.com/drive/folders/1VWrVRpRQVgi8zJ-KiLAnfZGGekVRliSu
