@@ -5,7 +5,7 @@ Human Daily Indoor Actions (HDIA) 데이터셋은 실내에서 이루어지는 �
 > __Living lab__ >
 로봇과 사람이 한 집에 공존한다는 가정 아래 아파트에 실제 가정 환경을 모사한 테스트베트 환경을 구축하였습니다. 참가자들은 같은 행동에 대해 장소를 바꿔가며 여러번 촬영했습니다. 참가자들의 자연스러운 행동을 위해 자세나 위치 등에 대해 제약을 최소화하였으며 평소 그들이 행동하는 대로 자유롭게 행동하였습니다. 기존의 Human Action Recognition (HAR) 데이터셋과의 차별점은 가정용 로봇의 시각을 염두에 두었기 때문에 정면, 측면, 후면 등 다양한 뷰에서 촬영했다는 것입니다.
 
-<img src="image/daejeon.png"  width="500">     <img src="image/room.png"  width="480">
+<img src="image/daejeon.png"  height="325"> &ensp; <img src="image/room.png"  height="335">
 
 ## 촬영 기기
 > __IR 카메라, MYO 암밴드__ >
@@ -15,11 +15,12 @@ HDIA 데이터셋은 실험자들의 개인 정보를 보호를 최우선으로 
 
 
 ## 48종 행동 리스트
+> 7 카테고리의 행동을 구분하여 
 <img src="image/class_num.png">
 
-note) 실제 고령자 행동을 관찰하여 정의한 55종 행동 중 팔을 사용하지 않는 7종 행동을 제외하여 48종 행동 인식에 활용 
-
 유관 기관 데이터셋 바로가기 https://nanum.etri.re.kr/share/dhkim008/robot_environment1?lang=ko_KR
+
+※ 55종 행동 중 팔을 사용하지 않는 7종 행동을 제외하여 48종 행동 인식에 활용 
 
 ### Data file name layout
 
@@ -39,6 +40,15 @@ note) 실제 고령자 행동을 관찰하여 정의한 55종 행동 중 팔을 
 
 ## 통계
 <img src="image/data_stat.png">
+|속성|값|
+|:---|:---|
+|총 시간|약 11시간 30분|
+|클래스 당 평균 샘플 수|89.71개|
+|최대 샘플 수와 해당 클래스|163개,|
+|최소 샘플 수와 해당 클래스|28개,|
+|클래스 당 평균 시간|9.61초|
+|최대 시간과 해당 클래스|37초, 신문 읽기|
+|최소 시간과 해당 클래스|2초, 안경 쓰기/벗기|
 
-### Action Trainning Dataset Link
+### Download Link
 https://drive.google.com/drive/folders/1VWrVRpRQVgi8zJ-KiLAnfZGGekVRliSu
